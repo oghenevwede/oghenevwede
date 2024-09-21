@@ -3,7 +3,7 @@
 I might be a SSE with **7+ years** of development experience, specializing in **backend architecture** and **product development**. I love creating user-centric products and building things people want.
 
 ### What I Do?
-- Research (Personal Fav)
+- Research (Personal fav wight now)
 - Build scalable **backend systems** and **API services**
 - Build **cross-platform mobile apps** wih Flutter (UIs Mostly)
 - Design and optimizing **technical architectures** (Another Fav)
