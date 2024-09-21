@@ -9,7 +9,7 @@ I might be a SSE with **7+ years** of development experience, specializing in **
 - Design and optimizing **technical architectures** (Another Fav)
 - Write **clean, maintainable, and good code**
 - Share my knowledge through **technical writing**
-- Work with marketing and growth teams to communicate user needs and wants (I have a marketing and strateg background)
+- Work with marketing and growth teams to communicate user needs and wants (I have a marketing and strategy background)
 
 ### Industries I've Worked In:
 - **SaaS** 💻
@@ -18,6 +18,8 @@ I might be a SSE with **7+ years** of development experience, specializing in **
 - **E-commerce** 🛍️
 - **Music & Entertainment** 🎶
 - **Hospitality**
+- **Ed-tech**
+- 
 
 ### 🛠️ My Tech Stack:
 <p align="left">
@@ -31,7 +33,7 @@ I might be a SSE with **7+ years** of development experience, specializing in **
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🔧 Tools I've Work With:
+### 🔧 Tools I Work With:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -43,3 +45,11 @@ I might be a SSE with **7+ years** of development experience, specializing in **
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Zeplin-00C7B7?style=for-the-badge&logo=zeplin&logoColor=white" alt="Zeplin" />
 </p>
+
+### 📖 Check Out Some Things I've Written:
+- [My course on Go and MongoDB](https://www.educative.io/courses/api-development-in-go-using-mongodb)
+- [Blog articles for Semaphore](https://semaphoreci.com/author/oghenevwede-emeni)
+- [Articles for Ambassador Labs](https://blog.getambassador.io/tagged/resource-allocation)
+- [Technical contributions for InfoQ](https://www.infoq.com/profile/Oghenevwede-Emeni/)
+- [Old articles on Dev.to](https://dev.to/genesdemon)
+
