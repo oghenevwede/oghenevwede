@@ -9,6 +9,7 @@ I might be a SSE with **7+ years** of development experience, specializing in **
 - Design and optimizing **technical architectures** (Another Fav)
 - Write **clean, maintainable, and good code**
 - Share my knowledge through **technical writing**
+- I design really cool UIs on Figma Too
 - Work with marketing and growth teams to communicate user needs and wants (I have a marketing and strategy background)
 
 ### Industries I've Worked In:
